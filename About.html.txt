@@ -1,0 +1,66 @@
+ <main>
+    
+        <section class="about">
+            <div class="about-row" id="about-row">
+                <p>let me tell you</p>
+                <h1>ABOUT MY JOURNEY</h1>
+
+                <div class="box">
+
+                    <div class="vertical-title">
+                        <img class="img-top" src="image/c.png" alt="developer">
+                        <div class="vertical-text">
+                            C Language (2021-present)
+                        </div>
+                        <div class="vertical-desc">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores laboriosam molestiae
+                            eligendi, ad tempora ratione nostrum asperiores quidem autem dolorem quaerat! Molestias,
+                            consectetur.
+                        </div>
+                    </div>
+
+                    <div class="vertical-title">
+                        <img class="img-top2" src="image/java_developmet.png" alt="developer">
+                        <div class="vertical-text2">
+                            Java Developer (2023-present)
+                        </div>
+                        <div class="vertical-desc2">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores laboriosam molestiae
+                            eligendi, ad tempora ratione nostrum asperiores quidem autem dolorem quaerat! Molestias,
+                            consectetur.
+                        </div>
+                    </div>
+
+                    <div class="vertical-title">
+                        <img class="img-top3" src="image/developer-removebg-preview.png" alt="developer">
+                        <div class="vertical-text3">
+                            Web Developer (2023-present)
+                        </div>
+                        <div class="vertical-desc3">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores laboriosam molestiae
+                            eligendi, ad tempora ratione nostrum asperiores quidem autem dolorem quaerat! Molestias,
+                            consectetur.
+                        </div>
+                    </div>
+
+                    <div class="vertical-title">
+                        <img class="img-top4" src="image/ml-removebg-preview.png" alt="developer">
+                        <div class="vertical-text4">
+                            Machine Learning (Soon)
+                        </div>
+                        <div class="vertical-desc4">
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores laboriosam molestiae
+                            eligendi, ad tempora ratione nostrum asperiores quidem autem dolorem quaerat! Molestias,
+                            consectetur.
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+
+            </div>
+
+        </section>
+    </main>
